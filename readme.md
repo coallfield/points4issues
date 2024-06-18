@@ -5,3 +5,5 @@
 ZKxnZx
 
 fixed #22, #23 and #24
+
+fixed #26
