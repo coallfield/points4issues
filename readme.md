@@ -11,3 +11,4 @@ fixed #26
 getting a beer...
 
 test 100 solving
+new issue solving
